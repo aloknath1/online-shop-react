@@ -1,10 +1,6 @@
 # Description
 
 This is an online shop prototype (front end) implemented using React, Redux, React router, and React Material UI library.
-
-<img src="https://raw.githubusercontent.com/online-shop/master/src/Images/screenshot.PNG" width="820" height="420">
- 
-
 Some features:
 - Search products using keyword and/or category
 - Quick access to all products in given category (accessible from menu on the left)
